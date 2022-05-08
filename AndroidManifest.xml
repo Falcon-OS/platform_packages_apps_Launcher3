@@ -44,7 +44,7 @@
         attributes and intent filters the same
         -->
         <activity
-            android:name="com.awaken.launcher.AwakenLauncher"
+            android:name="com.falcon.launcher.FalconLauncher"
             android:launchMode="singleTask"
             android:clearTaskOnLaunch="true"
             android:stateNotNeeded="true"

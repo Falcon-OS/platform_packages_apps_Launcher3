@@ -14,10 +14,10 @@
  * limitations under the License.
  */
 
-package com.awaken.launcher;
+package com.falcon.launcher;
 
 import com.android.launcher3.Launcher;
 
-public class AwakenLauncher extends Launcher {
+public class FalconLauncher extends Launcher {
 
 }

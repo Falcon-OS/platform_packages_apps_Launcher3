@@ -14,12 +14,12 @@
  * limitations under the License.
  */
 
-package com.awaken.launcher;
+package com.falcon.launcher;
 
 import com.android.launcher3.uioverrides.QuickstepLauncher;
 import com.android.systemui.plugins.shared.LauncherOverlayManager;
 
-public class AwakenLauncher extends QuickstepLauncher {
+public class FalconLauncher extends QuickstepLauncher {
 
     @Override
     protected LauncherOverlayManager getDefaultOverlay() {
