@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.awaken.launcher;
+package com.falcon.launcher;
 
 import android.app.Activity;
 import android.content.SharedPreferences;
